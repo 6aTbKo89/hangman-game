@@ -29,7 +29,7 @@
 
 @layer components {
 	#app {
-		@apply flex flex-col justify-center items-center dark:text-white dark:bg-zinc-800;
+		@apply h-screen flex flex-col justify-center items-center dark:text-white dark:bg-zinc-800;
 	}
 	.logo {
 		@apply text-2xl sm:text-4xl md:text-5xl font-bold;
